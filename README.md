@@ -22,8 +22,7 @@ These modules are listed in `requirements.txt` and can be installed by running t
 :Simply run the script
 
 
-## 🤖 Author
+## 🤖 Sowmya Chitttukula !
 <!--Remove the below lines and add yours -->
-If you have any doubts or tips feel free to ping me on discord
-dumb_potato#1734
+
 
